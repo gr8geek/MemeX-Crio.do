@@ -30,10 +30,8 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
 PyHamcrest==2.0.2
-pylint==2.6.0
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
-pypiwin32==223
 python-dateutil==2.8.1
 pyttsx3==2.90
 pytz==2021.1
@@ -42,7 +40,6 @@ s3transfer==0.3.4
 service-identity==18.1.0
 six==1.15.0
 soupsieve==2.2
-SpeechRecognition==3.8.1
 sqlparse==0.4.1
 toml==0.10.2
 urllib3==1.26.3
